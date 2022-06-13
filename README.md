@@ -1,4 +1,4 @@
-<h3 align="center">Created using java in inteli</h3>
+<h3 align="center">Created using java</h3>
 
 - 🔭 I am now a student in **the vocational high school**
 
